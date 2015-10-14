@@ -2,7 +2,7 @@
 
 ## Description
 
-Extensions and apps can exchange messages with native applications using an API that is similar to the other message passing APIs. Native applications that support this feature must register a native messaging host that knows how to communicate with the extension. [More info...](https://developer.chrome.com/extensions/nativeMessaging) 
+Extensions and apps can exchange messages with native applications using an API that is similar to the other message passing APIs. Native applications that support this feature must register a native messaging host that knows how to communicate with the extension. More info [here](https://developer.chrome.com/extensions/nativeMessaging) 
 
 This repository contains an example for communicates a Chrome extension with an application made in Java.
 
@@ -26,13 +26,13 @@ Google-Native-Messaging/
 │   ├── install_host.bat
 │   └── native-messaging-chat.bat
 └── src/
-    ├──	App.java
+    ├── App.java
     └── Main.java
 ```
 
 ## extension
 
-To load the extension follow the steps in the next [Tutorial](https://developer.chrome.com/extensions/getstarted#unpacked)
+To load the extension follow the steps in the next [tutorial](https://developer.chrome.com/extensions/getstarted#unpacked)
 
 ## host	
 
